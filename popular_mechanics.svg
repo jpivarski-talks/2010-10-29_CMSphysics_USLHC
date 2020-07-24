@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   width="1153"
+   height="806"
+   sodipodi:docname="popular_mechanics.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1434"
+     inkscape:window-height="845"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.83519312"
+     inkscape:cx="653.11287"
+     inkscape:cy="311.84599"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <image
+     xlink:href="/home/pivarski/work/hepr8.physics.tamu.edu/talks/2010-10-29_CMSphysics_USLHC/popular_mechanics.png"
+     width="1153"
+     height="806"
+     id="image12"
+     x="0"
+     y="0"
+     sodipodi:absref="/home/pivarski/work/hepr8.physics.tamu.edu/talks/2010-10-29_CMSphysics_USLHC/popular_mechanics.png" />
+  <rect
+     style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect2818"
+     width="514.85095"
+     height="265.80655"
+     x="625.00519"
+     y="534.20654" />
+  <text
+     xml:space="preserve"
+     style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+     x="644.95172"
+     y="572.91571"
+     id="text3592"><tspan
+       sodipodi:role="line"
+       id="tspan3594"
+       x="644.95172"
+       y="572.91571"
+       style="font-size:28px"><tspan
+   style="font-style:italic"
+   id="tspan2821">Popular Science,</tspan> April 1978</tspan><tspan
+       sodipodi:role="line"
+       x="644.95172"
+       y="607.91571"
+       style="font-size:28px"
+       id="tspan3596">   • TeV-scale proton collider</tspan><tspan
+       sodipodi:role="line"
+       x="644.95172"
+       y="642.91571"
+       style="font-size:28px"
+       id="tspan3598">   • international collaboration</tspan><tspan
+       sodipodi:role="line"
+       x="644.95172"
+       y="677.91571"
+       style="font-size:28px"
+       id="tspan3604">   • helium-cooled super-</tspan><tspan
+       sodipodi:role="line"
+       x="644.95172"
+       y="712.91571"
+       style="font-size:28px"
+       id="tspan3600">      conducting magnets</tspan><tspan
+       sodipodi:role="line"
+       x="644.95172"
+       y="747.91571"
+       style="font-size:28px"
+       id="tspan3602">   • &quot;electronic bubble</tspan><tspan
+       sodipodi:role="line"
+       x="644.95172"
+       y="782.91571"
+       style="font-size:28px"
+       id="tspan3606">      chambers&quot;</tspan></text>
+</svg>
